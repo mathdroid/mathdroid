@@ -11,6 +11,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+[@supryantowp](https://github.com/supryantowp) says:
+
+> Hi have a great day !
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@arianjinx](https://github.com/arianjinx) says:
 
 > Halo salam kenal 🍻
@@ -48,14 +57,5 @@
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@galuhsahid](https://github.com/galuhsahid) says:
-
-> omg this is awesome what is this magic!!
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"arianjinx","message":"Halo salam kenal 🍻","date":"07/09/2020"},{"name":"ilhamfp","message":"Mantap lanjutkan!","date":"07/09/2020"},{"name":"ghazalli","message":"Halo mas, keren banget nih projeknya, boleh ya saya implementasi di Github page saya 😁.\n\nSalam kenal.\n\nAli","date":"07/09/2020"},{"name":"yoghaswara","message":"Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.","date":"07/09/2020"},{"name":"galuhsahid","message":"omg this is awesome what is this magic!!","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"supryantowp","message":"Hi have a great day !","date":"07/09/2020"},{"name":"arianjinx","message":"Halo salam kenal 🍻","date":"07/09/2020"},{"name":"ilhamfp","message":"Mantap lanjutkan!","date":"07/09/2020"},{"name":"ghazalli","message":"Halo mas, keren banget nih projeknya, boleh ya saya implementasi di Github page saya 😁.\n\nSalam kenal.\n\nAli","date":"07/09/2020"},{"name":"yoghaswara","message":"Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.","date":"07/09/2020"}]-->
