@@ -67,7 +67,7 @@ function renderList (guests: Guest[]): string {
 }
 
 export default async (req: NowRequest, res: NowResponse) => {
-  const octokit = new Octokit({ auth: `token ${process.env.GITHUB_TOKEN}` })
+  const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
   const readme = await getReadme(octokit)
 
   const match = readme.content.match(jsonReg)
