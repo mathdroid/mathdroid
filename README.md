@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sign my guest book!
+[Sign my guest book!](https://mathdroid.now.sh)
 
 <!--START_SECTION:guestbook-->
 
