@@ -14,6 +14,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/prstyocode"><img align="left" width="32" height="32" src="https://www.github.com/prstyocode.png"></a> [@prstyocode](https://github.com/prstyocode) says:
+
+> Hi Jason! Hope you're having a great day!
+
+<sup>09 Jul 2020, 4:13 PM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/edycakra"><img align="left" width="32" height="32" src="https://www.github.com/edycakra.png"></a> [@edycakra](https://github.com/edycakra) says:
 
 > Cool stuff as always!
@@ -47,16 +56,7 @@
 
 <sup>07/09/2020</sup>
 
-
----
-
-<a href="https://github.com/arianjinx"><img align="left" width="32" height="32" src="https://www.github.com/arianjinx.png"></a> [@arianjinx](https://github.com/arianjinx) says:
-
-> Halo salam kenal 🍻
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"edycakra","message":"Cool stuff as always!","date":"09 Jul 2020, 4:12 PM (GMT+0)"},{"name":"mathdroid","message":"Just fixed the submission form, sorry! 🔥","date":"09 Jul 2020, 4:06 PM (GMT+0)"},{"name":"novitald","message":"It's been a while since I opened Github and now it's so cute I love it, and I love this, and I love what you do! Keep being such a star!","date":"07/09/2020"},{"name":"supryantowp","message":"Hi have a great day !","date":"07/09/2020"},{"name":"arianjinx","message":"Halo salam kenal 🍻","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"prstyocode","message":"Hi Jason! Hope you're having a great day!","date":"09 Jul 2020, 4:13 PM (GMT+0)"},{"name":"edycakra","message":"Cool stuff as always!","date":"09 Jul 2020, 4:12 PM (GMT+0)"},{"name":"mathdroid","message":"Just fixed the submission form, sorry! 🔥","date":"09 Jul 2020, 4:06 PM (GMT+0)"},{"name":"novitald","message":"It's been a while since I opened Github and now it's so cute I love it, and I love this, and I love what you do! Keep being such a star!","date":"07/09/2020"},{"name":"supryantowp","message":"Hi have a great day !","date":"07/09/2020"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
