@@ -11,6 +11,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+[@novitald](https://github.com/novitald) says:
+
+> It's been a while since I opened Github and now it's so cute I love it, and I love this, and I love what you do! Keep being such a star!
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@supryantowp](https://github.com/supryantowp) says:
 
 > Hi have a great day !
@@ -48,14 +57,5 @@
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@yoghaswara](https://github.com/yoghaswara) says:
-
-> Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"supryantowp","message":"Hi have a great day !","date":"07/09/2020"},{"name":"arianjinx","message":"Halo salam kenal 🍻","date":"07/09/2020"},{"name":"ilhamfp","message":"Mantap lanjutkan!","date":"07/09/2020"},{"name":"ghazalli","message":"Halo mas, keren banget nih projeknya, boleh ya saya implementasi di Github page saya 😁.\n\nSalam kenal.\n\nAli","date":"07/09/2020"},{"name":"yoghaswara","message":"Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"novitald","message":"It's been a while since I opened Github and now it's so cute I love it, and I love this, and I love what you do! Keep being such a star!","date":"07/09/2020"},{"name":"supryantowp","message":"Hi have a great day !","date":"07/09/2020"},{"name":"arianjinx","message":"Halo salam kenal 🍻","date":"07/09/2020"},{"name":"ilhamfp","message":"Mantap lanjutkan!","date":"07/09/2020"},{"name":"ghazalli","message":"Halo mas, keren banget nih projeknya, boleh ya saya implementasi di Github page saya 😁.\n\nSalam kenal.\n\nAli","date":"07/09/2020"}]-->
