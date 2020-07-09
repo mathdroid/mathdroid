@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:guestbook-->
+[@resir014](https://github.com/resir014) says:
+
+> Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@DrSensor](https://github.com/DrSensor) says:
 
 > Keep it 🆙
@@ -59,14 +68,5 @@ Here are some ideas to get you started:
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@andriawan](https://github.com/andriawan) says:
-
-> Cool stuff😁
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"DrSensor","message":"Keep it 🆙","date":"07/09/2020"},{"name":"faultable","message":"Keep inspiring bro!","date":"07/09/2020"},{"name":"rosatamarindus","message":"Keep on inspiring people! Stay awesome!","date":"07/09/2020"},{"name":"isatrio","message":"Good job!","date":"07/09/2020"},{"name":"andriawan","message":"Cool stuff😁","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"resir014","message":"Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI","date":"07/09/2020"},{"name":"DrSensor","message":"Keep it 🆙","date":"07/09/2020"},{"name":"faultable","message":"Keep inspiring bro!","date":"07/09/2020"},{"name":"rosatamarindus","message":"Keep on inspiring people! Stay awesome!","date":"07/09/2020"},{"name":"isatrio","message":"Good job!","date":"07/09/2020"}]-->
