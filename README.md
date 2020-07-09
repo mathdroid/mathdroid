@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 [Sign my guest book!](https://mathdroid.now.sh)
 
 <!--START_SECTION:guestbook-->
+[@DrSensor](https://github.com/DrSensor) says:
+
+> Keep it 🆙
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@faultable](https://github.com/faultable) says:
 
 > Keep inspiring bro!
@@ -55,14 +64,5 @@ Here are some ideas to get you started:
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@nicnocquee](https://github.com/nicnocquee) says:
-
-> Github Guestbook nya bs masuk plus62.dev ini 😄
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"faultable","message":"Keep inspiring bro!","date":"07/09/2020"},{"name":"rosatamarindus","message":"Keep on inspiring people! Stay awesome!","date":"07/09/2020"},{"name":"isatrio","message":"Good job!","date":"07/09/2020"},{"name":"andriawan","message":"Cool stuff😁","date":"07/09/2020"},{"name":"nicnocquee","message":"Github Guestbook nya bs masuk plus62.dev ini 😄","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"DrSensor","message":"Keep it 🆙","date":"07/09/2020"},{"name":"faultable","message":"Keep inspiring bro!","date":"07/09/2020"},{"name":"rosatamarindus","message":"Keep on inspiring people! Stay awesome!","date":"07/09/2020"},{"name":"isatrio","message":"Good job!","date":"07/09/2020"},{"name":"andriawan","message":"Cool stuff😁","date":"07/09/2020"}]-->
