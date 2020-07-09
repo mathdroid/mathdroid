@@ -26,6 +26,19 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:guestbook-->
+[@ghazalli](https://github.com/ghazalli) says:
+
+> Halo mas, keren banget nih projeknya, boleh ya saya implementasi di Github page saya 😁.
+> 
+> Salam kenal.
+> 
+> Ali
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@yoghaswara](https://github.com/yoghaswara) says:
 
 > Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.
@@ -59,14 +72,5 @@ Here are some ideas to get you started:
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@sonnylazuardi](https://github.com/sonnylazuardi) says:
-
-> Pernah masuk TV bareng https://www.youtube.com/watch?v=BBFkzxfRYZM&amp;t=2s
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"yoghaswara","message":"Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.","date":"07/09/2020"},{"name":"galuhsahid","message":"omg this is awesome what is this magic!!","date":"07/09/2020"},{"name":"fukou","message":"I just wanted to say thank you for being such an inspiration! Your works are amazing and please keep it up! 💖","date":"07/09/2020"},{"name":"pr0ph0z","message":"Stay awesome! Where's my souvenir anyway? ","date":"07/09/2020"},{"name":"sonnylazuardi","message":"Pernah masuk TV bareng https://www.youtube.com/watch?v=BBFkzxfRYZM&amp;t=2s","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"ghazalli","message":"Halo mas, keren banget nih projeknya, boleh ya saya implementasi di Github page saya 😁.\n\nSalam kenal.\n\nAli","date":"07/09/2020"},{"name":"yoghaswara","message":"Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.","date":"07/09/2020"},{"name":"galuhsahid","message":"omg this is awesome what is this magic!!","date":"07/09/2020"},{"name":"fukou","message":"I just wanted to say thank you for being such an inspiration! Your works are amazing and please keep it up! 💖","date":"07/09/2020"},{"name":"pr0ph0z","message":"Stay awesome! Where's my souvenir anyway? ","date":"07/09/2020"}]-->
