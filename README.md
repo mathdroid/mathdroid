@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:guestbook-->
+[@sonnylazuardi](https://github.com/sonnylazuardi) says:
+
+> Pernah masuk TV bareng https://www.youtube.com/watch?v=BBFkzxfRYZM&amp;t=2s
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@resir014](https://github.com/resir014) says:
 
 > Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI
@@ -59,14 +68,5 @@ Here are some ideas to get you started:
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@isatrio](https://github.com/isatrio) says:
-
-> Good job!
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"resir014","message":"Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI","date":"07/09/2020"},{"name":"DrSensor","message":"Keep it 🆙","date":"07/09/2020"},{"name":"faultable","message":"Keep inspiring bro!","date":"07/09/2020"},{"name":"rosatamarindus","message":"Keep on inspiring people! Stay awesome!","date":"07/09/2020"},{"name":"isatrio","message":"Good job!","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"sonnylazuardi","message":"Pernah masuk TV bareng https://www.youtube.com/watch?v=BBFkzxfRYZM&amp;t=2s","date":"07/09/2020"},{"name":"resir014","message":"Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI","date":"07/09/2020"},{"name":"DrSensor","message":"Keep it 🆙","date":"07/09/2020"},{"name":"faultable","message":"Keep inspiring bro!","date":"07/09/2020"},{"name":"rosatamarindus","message":"Keep on inspiring people! Stay awesome!","date":"07/09/2020"}]-->
