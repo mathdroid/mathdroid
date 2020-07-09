@@ -24,7 +24,7 @@
 
 > Hey everyone it should now support images :0
 
-<sup>09 Jul 2020, 12:33noon..noon (GMT+0...GMT+0)</sup>
+<sup>09 Jul 2020, 12:33 noon (GMT+0)</sup>
 
 
 ---
