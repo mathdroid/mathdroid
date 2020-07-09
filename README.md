@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:guestbook-->
+[@yoghaswara](https://github.com/yoghaswara) says:
+
+> Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@galuhsahid](https://github.com/galuhsahid) says:
 
 > omg this is awesome what is this magic!!
@@ -59,14 +68,5 @@ Here are some ideas to get you started:
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@resir014](https://github.com/resir014) says:
-
-> Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"galuhsahid","message":"omg this is awesome what is this magic!!","date":"07/09/2020"},{"name":"fukou","message":"I just wanted to say thank you for being such an inspiration! Your works are amazing and please keep it up! 💖","date":"07/09/2020"},{"name":"pr0ph0z","message":"Stay awesome! Where's my souvenir anyway? ","date":"07/09/2020"},{"name":"sonnylazuardi","message":"Pernah masuk TV bareng https://www.youtube.com/watch?v=BBFkzxfRYZM&amp;t=2s","date":"07/09/2020"},{"name":"resir014","message":"Don't know what to put here. Have some music I guess. 💖 https://www.youtube.com/watch?v=-msNeB8urFI","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"yoghaswara","message":"Hallo , kak faultable. Readme nya keren bisa di isi isi. Btw tenk you kak atas tulisanya, sungguh mencerahkan.","date":"07/09/2020"},{"name":"galuhsahid","message":"omg this is awesome what is this magic!!","date":"07/09/2020"},{"name":"fukou","message":"I just wanted to say thank you for being such an inspiration! Your works are amazing and please keep it up! 💖","date":"07/09/2020"},{"name":"pr0ph0z","message":"Stay awesome! Where's my souvenir anyway? ","date":"07/09/2020"},{"name":"sonnylazuardi","message":"Pernah masuk TV bareng https://www.youtube.com/watch?v=BBFkzxfRYZM&amp;t=2s","date":"07/09/2020"}]-->
