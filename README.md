@@ -2,26 +2,56 @@
 
 🔭 I’m currently working on [COVID-19 API](https://github.com/covid-19-api) and other educational stuff.
 
-📫 How to reach me: email me, or Tweet at me in https://twitter.com/mathdroid for quick response.
+📫 How to reach me: email me, or Tweet me at [Twitter/mathdroid](https://twitter.com/mathdroid) for quick response.
 
-<!--
-**mathdroid/mathdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Guest Book
 
-Here are some ideas to get you started:
+> 💬 [Sign my guest book!](https://mathdroid.now.sh) ([source code](https://github.com/mathdroid/guestbook))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[Sign my guest book!](https://mathdroid.now.sh)
+---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/mathdroid"><img align="left" width="32" height="32" src="https://www.github.com/mathdroid.png"></a> [@mathdroid](https://github.com/mathdroid) says:
+
+> Hey everyone it should now support images :0
+
+<sup>09 Jul 2020, 12:33noon..noon (GMT+0...GMT+0)</sup>
+
+
+---
+
+<a href="https://github.com/novitald"><img align="left" width="32" height="32" src="https://www.github.com/novitald.png"></a> [@novitald](https://github.com/novitald) says:
+
+> It's been a while since I opened Github and now it's so cute I love it, and I love this, and I love what you do! Keep being such a star!
+
+<sup>07/09/2020</sup>
+
+
+---
+
+<a href="https://github.com/supryantowp"><img align="left" width="32" height="32" src="https://www.github.com/supryantowp.png"></a> [@supryantowp](https://github.com/supryantowp) says:
+
+> Hi have a great day !
+
+<sup>07/09/2020</sup>
+
+
+---
+
+<a href="https://github.com/arianjinx"><img align="left" width="32" height="32" src="https://www.github.com/arianjinx.png"></a> [@arianjinx](https://github.com/arianjinx) says:
+
+> Halo salam kenal 🍻
+
+<sup>07/09/2020</sup>
+
+
+---
+
+<a href="https://github.com/ilhamfp"><img align="left" width="32" height="32" src="https://www.github.com/ilhamfp.png"></a> [@ilhamfp](https://github.com/ilhamfp) says:
+
+> Mantap lanjutkan!
+
+<sup>07/09/2020</sup>
 
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST []-->
+<!--GUESTBOOK_LIST [{"name":"mathdroid","message":"Hey everyone it should now support images :0","date":"09 Jul 2020, 12:33noon..noon (GMT+0...GMT+0)"},{"name":"novitald","message":"It's been a while since I opened Github and now it's so cute I love it, and I love this, and I love what you do! Keep being such a star!","date":"07/09/2020"},{"name":"supryantowp","message":"Hi have a great day !","date":"07/09/2020"},{"name":"arianjinx","message":"Halo salam kenal 🍻","date":"07/09/2020"},{"name":"ilhamfp","message":"Mantap lanjutkan!","date":"07/09/2020"}]-->
