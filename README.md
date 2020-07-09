@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 [Sign my guest book!](https://mathdroid.now.sh)
 
 <!--START_SECTION:guestbook-->
+[@isatrio](https://github.com/isatrio) says:
+
+> Good job!
+
+<sup>07/09/2020</sup>
+
+
+---
+
 [@andriawan](https://github.com/andriawan) says:
 
 > Cool stuff😁
@@ -55,14 +64,5 @@ Here are some ideas to get you started:
 
 <sup>07/09/2020</sup>
 
-
----
-
-[@jokosu10](https://github.com/jokosu10) says:
-
-> Hi Mas Odi, keep inspiring us with your awesome work
-
-<sup>07/09/2020</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"andriawan","message":"Cool stuff😁","date":"07/09/2020"},{"name":"nicnocquee","message":"Github Guestbook nya bs masuk plus62.dev ini 😄","date":"07/09/2020"},{"name":"satyakresna","message":"Fighting kak Odi!","date":"07/09/2020"},{"name":"HilmanM","message":"Keep inspire others!","date":"07/09/2020"},{"name":"jokosu10","message":"Hi Mas Odi, keep inspiring us with your awesome work","date":"07/09/2020"}]-->
+<!--GUESTBOOK_LIST [{"name":"isatrio","message":"Good job!","date":"07/09/2020"},{"name":"andriawan","message":"Cool stuff😁","date":"07/09/2020"},{"name":"nicnocquee","message":"Github Guestbook nya bs masuk plus62.dev ini 😄","date":"07/09/2020"},{"name":"satyakresna","message":"Fighting kak Odi!","date":"07/09/2020"},{"name":"HilmanM","message":"Keep inspire others!","date":"07/09/2020"}]-->
