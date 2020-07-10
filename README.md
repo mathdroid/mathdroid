@@ -14,6 +14,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/iamganeshagrawal"><img align="left" width="32" height="32" src="https://www.github.com/iamganeshagrawal.png"></a> [@iamganeshagrawal](https://github.com/iamganeshagrawal) says:
+
+> Hy Bro, Keep doing this amazing stuff around open-source. I was liked your COVID-19 API work.
+
+<sup>10 Jul 2020, 2:18 PM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/lucernae"><img align="left" width="32" height="32" src="https://www.github.com/lucernae.png"></a> [@lucernae](https://github.com/lucernae) says:
 
 > Keep up interesting stuff rolling!
@@ -49,16 +58,7 @@
 
 <sup>09 Jul 2020, 10:23 PM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/barayuda"><img align="left" width="32" height="32" src="https://www.github.com/barayuda.png"></a> [@barayuda](https://github.com/barayuda) says:
-
-> Hi mas Odi thanks for the repo and your great oss app! 🎉👍🏻
-
-<sup>09 Jul 2020, 4:34 PM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"lucernae","message":"Keep up interesting stuff rolling!","date":"10 Jul 2020, 6:57 AM (GMT+0)"},{"name":"angeloanan","message":"hEnlo! Good luck with your COVID-19 API stuff. \n\nalso trf.money when 👀","date":"10 Jul 2020, 2:11 AM (GMT+0)"},{"name":"priaaji-seyanegoro","message":"Halo mas odi, makasih atas karya karya nya yg luar biasa dan sangat menginspirasi ☀️","date":"10 Jul 2020, 1:08 AM (GMT+0)"},{"name":"mahisaajy","message":"Hihihi","date":"09 Jul 2020, 10:23 PM (GMT+0)"},{"name":"barayuda","message":"Hi mas Odi thanks for the repo and your great oss app! 🎉👍🏻","date":"09 Jul 2020, 4:34 PM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"iamganeshagrawal","message":"Hy Bro, Keep doing this amazing stuff around open-source. I was liked your COVID-19 API work. ","date":"10 Jul 2020, 2:18 PM (GMT+0)"},{"name":"lucernae","message":"Keep up interesting stuff rolling!","date":"10 Jul 2020, 6:57 AM (GMT+0)"},{"name":"angeloanan","message":"hEnlo! Good luck with your COVID-19 API stuff. \n\nalso trf.money when 👀","date":"10 Jul 2020, 2:11 AM (GMT+0)"},{"name":"priaaji-seyanegoro","message":"Halo mas odi, makasih atas karya karya nya yg luar biasa dan sangat menginspirasi ☀️","date":"10 Jul 2020, 1:08 AM (GMT+0)"},{"name":"mahisaajy","message":"Hihihi","date":"09 Jul 2020, 10:23 PM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
