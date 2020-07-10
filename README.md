@@ -14,6 +14,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/priaaji-seyanegoro"><img align="left" width="32" height="32" src="https://www.github.com/priaaji-seyanegoro.png"></a> [@priaaji-seyanegoro](https://github.com/priaaji-seyanegoro) says:
+
+> Halo mas odi, makasih atas karya karya nya yg luar biasa dan sangat menginspirasi ☀️
+
+<sup>10 Jul 2020, 1:08 AM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/mahisaajy"><img align="left" width="32" height="32" src="https://www.github.com/mahisaajy.png"></a> [@mahisaajy](https://github.com/mahisaajy) says:
 
 > Hihihi
@@ -47,16 +56,7 @@
 
 <sup>09 Jul 2020, 4:13 PM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/edycakra"><img align="left" width="32" height="32" src="https://www.github.com/edycakra.png"></a> [@edycakra](https://github.com/edycakra) says:
-
-> Cool stuff as always!
-
-<sup>09 Jul 2020, 4:12 PM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"mahisaajy","message":"Hihihi","date":"09 Jul 2020, 10:23 PM (GMT+0)"},{"name":"barayuda","message":"Hi mas Odi thanks for the repo and your great oss app! 🎉👍🏻","date":"09 Jul 2020, 4:34 PM (GMT+0)"},{"name":"johanneshaberlah","message":"Thank you for making important apis!","date":"09 Jul 2020, 4:31 PM (GMT+0)"},{"name":"prstyocode","message":"Hi Jason! Hope you're having a great day!","date":"09 Jul 2020, 4:13 PM (GMT+0)"},{"name":"edycakra","message":"Cool stuff as always!","date":"09 Jul 2020, 4:12 PM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"priaaji-seyanegoro","message":"Halo mas odi, makasih atas karya karya nya yg luar biasa dan sangat menginspirasi ☀️","date":"10 Jul 2020, 1:08 AM (GMT+0)"},{"name":"mahisaajy","message":"Hihihi","date":"09 Jul 2020, 10:23 PM (GMT+0)"},{"name":"barayuda","message":"Hi mas Odi thanks for the repo and your great oss app! 🎉👍🏻","date":"09 Jul 2020, 4:34 PM (GMT+0)"},{"name":"johanneshaberlah","message":"Thank you for making important apis!","date":"09 Jul 2020, 4:31 PM (GMT+0)"},{"name":"prstyocode","message":"Hi Jason! Hope you're having a great day!","date":"09 Jul 2020, 4:13 PM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
