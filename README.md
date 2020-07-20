@@ -14,6 +14,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/kaliwa"><img align="left" width="32" height="32" src="https://www.github.com/kaliwa.png"></a> [@kaliwa](https://github.com/kaliwa) says:
+
+> semoga sehat selalu...
+
+<sup>20 Jul 2020, 3:25 PM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/YogaSakti"><img align="left" width="32" height="32" src="https://www.github.com/YogaSakti.png"></a> [@YogaSakti](https://github.com/YogaSakti) says:
 
 > Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.
@@ -47,18 +56,7 @@
 
 <sup>10 Jul 2020, 6:57 AM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/angeloanan"><img align="left" width="32" height="32" src="https://www.github.com/angeloanan.png"></a> [@angeloanan](https://github.com/angeloanan) says:
-
-> hEnlo! Good luck with your COVID-19 API stuff. 
-> 
-> also trf.money when 👀
-
-<sup>10 Jul 2020, 2:11 AM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"YogaSakti","message":"Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.","date":"14 Jul 2020, 12:04 noon (GMT+0)"},{"name":"spiritbro1","message":"man after listening to imre nagi's podcast learning that you're freelancer just like me it was really cool and i hope someday i will be at your level ","date":"14 Jul 2020, 4:04 AM (GMT+0)"},{"name":"iamganeshagrawal","message":"Hy Bro, Keep doing this amazing stuff around open-source. I was liked your COVID-19 API work. ","date":"10 Jul 2020, 2:18 PM (GMT+0)"},{"name":"lucernae","message":"Keep up interesting stuff rolling!","date":"10 Jul 2020, 6:57 AM (GMT+0)"},{"name":"angeloanan","message":"hEnlo! Good luck with your COVID-19 API stuff. \n\nalso trf.money when 👀","date":"10 Jul 2020, 2:11 AM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"kaliwa","message":"semoga sehat selalu...","date":"20 Jul 2020, 3:25 PM (GMT+0)"},{"name":"YogaSakti","message":"Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.","date":"14 Jul 2020, 12:04 noon (GMT+0)"},{"name":"spiritbro1","message":"man after listening to imre nagi's podcast learning that you're freelancer just like me it was really cool and i hope someday i will be at your level ","date":"14 Jul 2020, 4:04 AM (GMT+0)"},{"name":"iamganeshagrawal","message":"Hy Bro, Keep doing this amazing stuff around open-source. I was liked your COVID-19 API work. ","date":"10 Jul 2020, 2:18 PM (GMT+0)"},{"name":"lucernae","message":"Keep up interesting stuff rolling!","date":"10 Jul 2020, 6:57 AM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
