@@ -16,6 +16,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/k1m0ch1"><img align="left" width="32" height="32" src="https://www.github.com/k1m0ch1.png"></a> [@k1m0ch1](https://github.com/k1m0ch1) says:
+
+> neat! smartass dude.
+
+<sup>10 Aug 2020, 5:23 AM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/lolikgiovi"><img align="left" width="32" height="32" src="https://www.github.com/lolikgiovi.png"></a> [@lolikgiovi](https://github.com/lolikgiovi) says:
 
 > Hello!
@@ -49,16 +58,7 @@
 
 <sup>14 Jul 2020, 4:04 AM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/iamganeshagrawal"><img align="left" width="32" height="32" src="https://www.github.com/iamganeshagrawal.png"></a> [@iamganeshagrawal](https://github.com/iamganeshagrawal) says:
-
-> Hy Bro, Keep doing this amazing stuff around open-source. I was liked your COVID-19 API work.
-
-<sup>10 Jul 2020, 2:18 PM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"lolikgiovi","message":"Hello! ","date":"24 Jul 2020, 1:36 PM (GMT+0)"},{"name":"kaliwa","message":"semoga sehat selalu...","date":"20 Jul 2020, 3:25 PM (GMT+0)"},{"name":"YogaSakti","message":"Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.","date":"14 Jul 2020, 12:04 noon (GMT+0)"},{"name":"spiritbro1","message":"man after listening to imre nagi's podcast learning that you're freelancer just like me it was really cool and i hope someday i will be at your level ","date":"14 Jul 2020, 4:04 AM (GMT+0)"},{"name":"iamganeshagrawal","message":"Hy Bro, Keep doing this amazing stuff around open-source. I was liked your COVID-19 API work. ","date":"10 Jul 2020, 2:18 PM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"k1m0ch1","message":"neat! smartass dude.","date":"10 Aug 2020, 5:23 AM (GMT+0)"},{"name":"lolikgiovi","message":"Hello! ","date":"24 Jul 2020, 1:36 PM (GMT+0)"},{"name":"kaliwa","message":"semoga sehat selalu...","date":"20 Jul 2020, 3:25 PM (GMT+0)"},{"name":"YogaSakti","message":"Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.","date":"14 Jul 2020, 12:04 noon (GMT+0)"},{"name":"spiritbro1","message":"man after listening to imre nagi's podcast learning that you're freelancer just like me it was really cool and i hope someday i will be at your level ","date":"14 Jul 2020, 4:04 AM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
