@@ -16,6 +16,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/hansputera"><img align="left" width="32" height="32" src="https://www.github.com/hansputera.png"></a> [@hansputera](https://github.com/hansputera) says:
+
+> Sungguh menginspirasi !!
+
+<sup>17 Sep 2020, 5:17 AM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/Kadantte"><img align="left" width="32" height="32" src="https://www.github.com/Kadantte.png"></a> [@Kadantte](https://github.com/Kadantte) says:
 
 > Thanks for making covid-19-api 😊
@@ -49,16 +58,7 @@
 
 <sup>20 Jul 2020, 3:25 PM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/YogaSakti"><img align="left" width="32" height="32" src="https://www.github.com/YogaSakti.png"></a> [@YogaSakti](https://github.com/YogaSakti) says:
-
-> Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.
-
-<sup>14 Jul 2020, 12:04 noon (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"Kadantte","message":"Thanks for making covid-19-api 😊","date":"19 Aug 2020, 3:50 PM (GMT+0)"},{"name":"k1m0ch1","message":"neat! smartass dude.","date":"10 Aug 2020, 5:23 AM (GMT+0)"},{"name":"lolikgiovi","message":"Hello! ","date":"24 Jul 2020, 1:36 PM (GMT+0)"},{"name":"kaliwa","message":"semoga sehat selalu...","date":"20 Jul 2020, 3:25 PM (GMT+0)"},{"name":"YogaSakti","message":"Hi mas Odi, makasih udah menginspirasi dengan karya-karyamu. Semoga dilain kesempatan bisa ikut collab lagi 😃.","date":"14 Jul 2020, 12:04 noon (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"hansputera","message":"Sungguh menginspirasi !!","date":"17 Sep 2020, 5:17 AM (GMT+0)"},{"name":"Kadantte","message":"Thanks for making covid-19-api 😊","date":"19 Aug 2020, 3:50 PM (GMT+0)"},{"name":"k1m0ch1","message":"neat! smartass dude.","date":"10 Aug 2020, 5:23 AM (GMT+0)"},{"name":"lolikgiovi","message":"Hello! ","date":"24 Jul 2020, 1:36 PM (GMT+0)"},{"name":"kaliwa","message":"semoga sehat selalu...","date":"20 Jul 2020, 3:25 PM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
