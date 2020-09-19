@@ -4,7 +4,8 @@
 
 📫 How to reach me: email me, or Tweet me at [Twitter/mathdroid](https://twitter.com/mathdroid) for quick response.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mathdroid?label=Follow&style=social)](https://twitter.com/mathdroid)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/mathdroid?label=Follow&style=social)](https://twitter.com/mathdroid)
+[![Discord](https://img.shields.io/discord/574799330406432769.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HPxA6Ft)
 
 
 ### Guest Book
