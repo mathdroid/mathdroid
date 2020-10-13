@@ -1,6 +1,6 @@
 ### Hi there, Odi here! 👋
 
-🔭 I’m currently working on [COVID-19 API](https://github.com/covid-19-api) and other educational stuff.
+🔭 I’m currently working on [COVID-19 API](https://github.com/mathdroid/covid-19-api) and other educational stuff.
 
 📫 How to reach me: email me, or Tweet me at [Twitter/mathdroid](https://twitter.com/mathdroid) for quick response.
 
