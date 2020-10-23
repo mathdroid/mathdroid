@@ -17,6 +17,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/IhwanID"><img align="left" width="32" height="32" src="https://www.github.com/IhwanID.png"></a> [@IhwanID](https://github.com/IhwanID) says:
+
+> Halo bang Odi! Semangat Berkarya dan Semoga Sehat Selalu 🤗
+
+<sup>23 Oct 2020, 5:59 PM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/reighpuy"><img align="left" width="32" height="32" src="https://www.github.com/reighpuy.png"></a> [@reighpuy](https://github.com/reighpuy) says:
 
 > Hi Odi :D
@@ -50,16 +59,7 @@
 
 <sup>17 Sep 2020, 5:17 AM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/Kadantte"><img align="left" width="32" height="32" src="https://www.github.com/Kadantte.png"></a> [@Kadantte](https://github.com/Kadantte) says:
-
-> Thanks for making covid-19-api 😊
-
-<sup>19 Aug 2020, 3:50 PM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"reighpuy","message":"Hi Odi :D","date":"13 Oct 2020, 4:09 PM (GMT+0)"},{"name":"afrijaldz","message":"halo mas Odi, sehat selalu!","date":"13 Oct 2020, 7:42 AM (GMT+0)"},{"name":"syofyanzuhad","message":"Hi Odi! Hope you're having a great day","date":"07 Oct 2020, 10:40 PM (GMT+0)"},{"name":"hansputera","message":"Sungguh menginspirasi !!","date":"17 Sep 2020, 5:17 AM (GMT+0)"},{"name":"Kadantte","message":"Thanks for making covid-19-api 😊","date":"19 Aug 2020, 3:50 PM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"IhwanID","message":"Halo bang Odi! Semangat Berkarya dan Semoga Sehat Selalu 🤗","date":"23 Oct 2020, 5:59 PM (GMT+0)"},{"name":"reighpuy","message":"Hi Odi :D","date":"13 Oct 2020, 4:09 PM (GMT+0)"},{"name":"afrijaldz","message":"halo mas Odi, sehat selalu!","date":"13 Oct 2020, 7:42 AM (GMT+0)"},{"name":"syofyanzuhad","message":"Hi Odi! Hope you're having a great day","date":"07 Oct 2020, 10:40 PM (GMT+0)"},{"name":"hansputera","message":"Sungguh menginspirasi !!","date":"17 Sep 2020, 5:17 AM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
