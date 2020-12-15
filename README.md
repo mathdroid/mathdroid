@@ -17,6 +17,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/diazardian"><img align="left" width="32" height="32" src="https://www.github.com/diazardian.png"></a> [@diazardian](https://github.com/diazardian) says:
+
+> Nice work dude!
+
+<sup>15 Dec 2020, 3:28 AM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/Welfordian"><img align="left" width="32" height="32" src="https://www.github.com/Welfordian.png"></a> [@Welfordian](https://github.com/Welfordian) says:
 
 > This is a test of the Emergency Broadcast System. This is only a test.
@@ -50,16 +59,7 @@
 
 <sup>23 Oct 2020, 5:59 PM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/reighpuy"><img align="left" width="32" height="32" src="https://www.github.com/reighpuy.png"></a> [@reighpuy](https://github.com/reighpuy) says:
-
-> Hi Odi :D
-
-<sup>13 Oct 2020, 4:09 PM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"Welfordian","message":"This is a test of the Emergency Broadcast System. This is only a test.","date":"15 Dec 2020, 2:39 AM (GMT+0)"},{"name":"sabiou","message":"Just want you to know your works in OS world are very helpful and amazing ! Keep pushing !!","date":"30 Nov 2020, 1:22 PM (GMT+0)"},{"name":"xsatanicohackerone","message":"tarikkk sisssss..","date":"26 Nov 2020, 12:57 noon (GMT+0)"},{"name":"IhwanID","message":"Halo bang Odi! Semangat Berkarya dan Semoga Sehat Selalu 🤗","date":"23 Oct 2020, 5:59 PM (GMT+0)"},{"name":"reighpuy","message":"Hi Odi :D","date":"13 Oct 2020, 4:09 PM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"diazardian","message":"Nice work dude! ","date":"15 Dec 2020, 3:28 AM (GMT+0)"},{"name":"Welfordian","message":"This is a test of the Emergency Broadcast System. This is only a test.","date":"15 Dec 2020, 2:39 AM (GMT+0)"},{"name":"sabiou","message":"Just want you to know your works in OS world are very helpful and amazing ! Keep pushing !!","date":"30 Nov 2020, 1:22 PM (GMT+0)"},{"name":"xsatanicohackerone","message":"tarikkk sisssss..","date":"26 Nov 2020, 12:57 noon (GMT+0)"},{"name":"IhwanID","message":"Halo bang Odi! Semangat Berkarya dan Semoga Sehat Selalu 🤗","date":"23 Oct 2020, 5:59 PM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
