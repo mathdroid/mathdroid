@@ -17,6 +17,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/alhaqhassan"><img align="left" width="32" height="32" src="https://www.github.com/alhaqhassan.png"></a> [@alhaqhassan](https://github.com/alhaqhassan) says:
+
+> hey, checkout youtube ad skipper https://github.com/alhaqhassan/auto-skip-youtube-ads.js
+
+<sup>05 Feb 2021, 3:22 PM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/fiqryq"><img align="left" width="32" height="32" src="https://www.github.com/fiqryq.png"></a> [@fiqryq](https://github.com/fiqryq) says:
 
 > Salam kenal mas odii
@@ -50,16 +59,7 @@
 
 <sup>29 Dec 2020, 3:39 PM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/onigura"><img align="left" width="32" height="32" src="https://www.github.com/onigura.png"></a> [@onigura](https://github.com/onigura) says:
-
-> Thank you for your services
-
-<sup>25 Dec 2020, 2:53 AM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"fiqryq","message":"Salam kenal mas odii","date":"03 Feb 2021, 1:28 PM (GMT+0)"},{"name":"CaturPutraPrakoso","message":"Salam kenal Mas Odi","date":"12 Jan 2021, 2:30 PM (GMT+0)"},{"name":"farhannamar","message":"Hi","date":"12 Jan 2021, 10:08 AM (GMT+0)"},{"name":"Syahriz-bot","message":"Hi Odi","date":"29 Dec 2020, 3:39 PM (GMT+0)"},{"name":"onigura","message":"Thank you for your services","date":"25 Dec 2020, 2:53 AM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"alhaqhassan","message":"hey, checkout youtube ad skipper https://github.com/alhaqhassan/auto-skip-youtube-ads.js\n","date":"05 Feb 2021, 3:22 PM (GMT+0)"},{"name":"fiqryq","message":"Salam kenal mas odii","date":"03 Feb 2021, 1:28 PM (GMT+0)"},{"name":"CaturPutraPrakoso","message":"Salam kenal Mas Odi","date":"12 Jan 2021, 2:30 PM (GMT+0)"},{"name":"farhannamar","message":"Hi","date":"12 Jan 2021, 10:08 AM (GMT+0)"},{"name":"Syahriz-bot","message":"Hi Odi","date":"29 Dec 2020, 3:39 PM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
