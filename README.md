@@ -17,6 +17,15 @@
 ---
 
 <!--START_SECTION:guestbook-->
+<a href="https://github.com/ridhanf"><img align="left" width="32" height="32" src="https://www.github.com/ridhanf.png"></a> [@ridhanf](https://github.com/ridhanf) says:
+
+> You're so cool with your covid-19-api. I really appreciate it.
+
+<sup>14 Mar 2021, 4:27 AM (GMT+0)</sup>
+
+
+---
+
 <a href="https://github.com/arifhnd"><img align="left" width="32" height="32" src="https://www.github.com/arifhnd.png"></a> [@arifhnd](https://github.com/arifhnd) says:
 
 > Hi Odi! G'day, Mate!
@@ -50,16 +59,7 @@
 
 <sup>12 Jan 2021, 2:30 PM (GMT+0)</sup>
 
-
----
-
-<a href="https://github.com/farhannamar"><img align="left" width="32" height="32" src="https://www.github.com/farhannamar.png"></a> [@farhannamar](https://github.com/farhannamar) says:
-
-> Hi
-
-<sup>12 Jan 2021, 10:08 AM (GMT+0)</sup>
-
 <!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST [{"name":"arifhnd","message":"Hi Odi! G'day, Mate!","date":"10 Mar 2021, 3:42 AM (GMT+0)"},{"name":"alhaqhassan","message":"hey, checkout youtube ad skipper https://github.com/alhaqhassan/auto-skip-youtube-ads.js\n","date":"05 Feb 2021, 3:22 PM (GMT+0)"},{"name":"fiqryq","message":"Salam kenal mas odii","date":"03 Feb 2021, 1:28 PM (GMT+0)"},{"name":"CaturPutraPrakoso","message":"Salam kenal Mas Odi","date":"12 Jan 2021, 2:30 PM (GMT+0)"},{"name":"farhannamar","message":"Hi","date":"12 Jan 2021, 10:08 AM (GMT+0)"}]-->
+<!--GUESTBOOK_LIST [{"name":"ridhanf","message":"You're so cool with your covid-19-api. I really appreciate it. ","date":"14 Mar 2021, 4:27 AM (GMT+0)"},{"name":"arifhnd","message":"Hi Odi! G'day, Mate!","date":"10 Mar 2021, 3:42 AM (GMT+0)"},{"name":"alhaqhassan","message":"hey, checkout youtube ad skipper https://github.com/alhaqhassan/auto-skip-youtube-ads.js\n","date":"05 Feb 2021, 3:22 PM (GMT+0)"},{"name":"fiqryq","message":"Salam kenal mas odii","date":"03 Feb 2021, 1:28 PM (GMT+0)"},{"name":"CaturPutraPrakoso","message":"Salam kenal Mas Odi","date":"12 Jan 2021, 2:30 PM (GMT+0)"}]-->
 
 ([guestbook source code](https://github.com/mathdroid/guestbook))
